@@ -375,7 +375,7 @@ function drawText() {
 
 
 
-  if (frameNumber >= 5000 && frameNumber < 99999) {
+  if (frameNumber >= 4200 && frameNumber < 99999) {
     context.fillStyle = `rgba(255, 255, 255, ${thirdOpacity})`;
     context.fillText(
       "Will You Be Mine?",
