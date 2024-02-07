@@ -260,7 +260,8 @@ function drawText() {
     if (window.innerWidth < 600) {
       drawTextWithLineBreaks(
         [
-          "May be there are some bad days for you and ofcourse lot for your boochi",
+          "May be there are some bad days for you",
+          "and ofcourse lot for your boochi",
           "and everyday i chose to be with you",
         ],
         canvas.width / 2,
@@ -282,9 +283,10 @@ function drawText() {
     context.fillStyle = `rgba(255, 255, 255, ${opacity})`;
 
     if (window.innerWidth < 600) {
-      drawTextWithLineBreaks(
+    drawTextWithLineBreaks(
         [
-          "May be there are some bad days for you and ofcourse lot for your boochi",
+          "Maybe there are some bad days for you",
+          "and ofcourse lot for your boochi",
           "and everyday i chose to be with you",
         ],
         canvas.width / 2,
