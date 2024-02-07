@@ -262,7 +262,7 @@ function drawText() {
         [
           "May be there are some bad days for you",
           "and ofcourse lot for your boochi",
-          "and everyday i chose to be with you",
+          "and everyday i chose to be with you 😘",
         ],
         canvas.width / 2,
         canvas.height / 2,
@@ -293,7 +293,7 @@ function drawText() {
         [
           "Maybe there are some bad days for you",
           "and ofcourse lot for your boochi",
-          "and everyday i chose to be with you",
+          "and everyday i chose to be with you 😘",
         ],
         canvas.width / 2,
         canvas.height / 2,
@@ -305,7 +305,7 @@ function drawText() {
         [
           "May be there are some bad days for you",
           "and ofcourse lot for your boochi",
-          "and everyday i chose to be with you",
+          "and everyday i chose to be with you 😘",
         ],
         canvas.width / 2,
         canvas.height / 2,
